@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  TS Time Tracking
+
+  Created by Thomas Sillmann on 10.02.20.
+  Copyright © 2020 Thomas Sillmann. All rights reserved.
+*/
+
+"Active time tracking" = "Active time tracking";
+"Add" = "Add";
+"Add new group" = "Add new group";
+"Add time tracking" = "Add time tracking";
+"Add your first group" = "Add your first group";
+"Add your first time tracking" = "Add your first time tracking";
+
+"Cancel" = "Cancel";
+
+"Delete" = "Delete";
+"Delete all content" = "Delete all content";
+"Delete time tracking" = "Delete time tracking";
+"Do you really want to delete all content within the app?" = "Do you really want to delete all content within the app?";
+"Do you really want to delete this time tracking?" = "Do you really want to delete this time tracking?";
+"Done" = "Done";
+"Duration: %@" = "Duration: %@";
+
+"Finished time trackings" = "Finished time trackings";
+"Further functions" = "Further functions";
+
+"Group" = "Group";
+"Groups" = "Groups";
+
+"Info" = "Info";
+
+"New time tracking" = "New time tracking";
+"No time tracking group selected." = "No time tracking group selected.";
+"No time tracking selected." = "No time tracking selected.";
+
+"Save" = "Save";
+"Selected group" = "Selected group";
+"Settings" = "Settings";
+"Start working" = "Start working";
+
+"Time intervals" = "Time intervals";
+"Time tracker" = "Time tracker";
+"Time trackings" = "Time trackings";
+"Time trackings without group" = "Time trackings without group";
+"Title" = "Title";
+
+"Update time tracking" = "Update time tracking";
+
+"Version" = "Version";

@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  TS Time Tracking
+
+  Created by Thomas Sillmann on 10.02.20.
+  Copyright © 2020 Thomas Sillmann. All rights reserved.
+*/
+
+"Active time tracking" = "Aktives Time Tracking";
+"Add" = "Hinzufügen";
+"Add new group" = "Neue Gruppe hinzufügen";
+"Add time tracking" = "Time Tracking erstellen";
+"Add your first group" = "Erstelle deine erste Gruppe";
+"Add your first time tracking" = "Erstelle dein erstes Time Tracking";
+
+"Cancel" = "Abbrechen";
+
+"Delete" = "Löschen";
+"Delete all content" = "Alle Inhalte löschen";
+"Delete time tracking" = "Time Tracking löschen";
+"Do you really want to delete all content within the app?" = "Möchtest du wirklich alle gespeicherten Inhalte löschen?";
+"Do you really want to delete this time tracking?" = "Möchtest du dieses Time Tracking wirklich löschen?";
+"Done" = "Fertig";
+"Duration: %@" = "Dauer: %@";
+
+"Finished time trackings" = "Abgeschlossene Time Trackings";
+"Further functions" = "Weitere Funktionen";
+
+"Group" = "Gruppe";
+"Groups" = "Gruppen";
+
+"Info" = "Info";
+
+"New time tracking" = "Neues Time Tracking";
+"No time tracking group selected." = "Keine Gruppe ausgewählt.";
+"No time tracking selected." = "Kein Time Tracking ausgewählt.";
+
+"Save" = "Speichern";
+"Selected group" = "Gewählte Gruppe";
+"Settings" = "Einstellungen";
+"Start working" = "Tracking beginnen";
+
+"Time intervals" = "Zeitintervalle";
+"Time tracker" = "Time Tracker";
+"Time trackings" = "Time Trackings";
+"Time trackings without group" = "Time Trackings ohne Gruppe";
+"Title" = "Titel";
+
+"Update time tracking" = "Time Tracking aktualisieren";
+
+"Version" = "Version";
